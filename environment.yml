@@ -1,0 +1,6 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - numpy=1.23.3
+prefix: /Users/elizabethpelletier/opt/miniconda3
